@@ -1,2 +1,2 @@
 # Calculator-App
-Android小算盤
+Android Calculator
